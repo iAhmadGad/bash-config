@@ -2,12 +2,9 @@
 Some useful bash configurations (prompt style, functions & aliases)
 
 # Install
-Firstly clone this repo:
+Clone this repo & execute install shell script:
 ```bash
 git clone --depth 1 https://github.com/iAhmadGad/bash-config.git .bash-config
-```
-Then execute install shell script:
-```bash
 ~/.bash-config/install.sh
 ```
 Start a new session to see the changes,
